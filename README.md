@@ -1,2 +1,2 @@
-# modpack_NG
-Модпак для версии 1.12.2 вдохновлённый сборкой FTB Infinity Evolved
+# Litecraft
+Modpack for 1.12.2 version of minecraft
